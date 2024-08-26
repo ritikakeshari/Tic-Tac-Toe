@@ -39,5 +39,5 @@ To get a local copy of the project up and running, follow these simple steps:
 tic-tac-toe/
 ├── index.html        # Main HTML file
 ├── styles.css        # CSS file for styling
-├── script.js         # JavaScript file for game logic
+├── app.js         # JavaScript file for game logic
 └── README.md         # Project documentation
